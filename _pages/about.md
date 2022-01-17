@@ -2,23 +2,30 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: PhD Student, <a href='https://cs.georgetown.edu/'>Georgetown University</a>
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: pfp.jpg
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>328K, St. Mary's Hall</p>
+    <p>3700 Reservoir Rd NW </p>
+    <p>Washington, DC 20057</p>
 
-news: true  # includes a list of news items
+news: false  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I am advised by [Justin Thaler](https://people.cs.georgetown.edu/jthaler/) and part of a budding theory group at Georgetown.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I am interested in exploring the power of various classical and quantum models of computation. Currently, I am working on projects that aim to prove:
+- circuit lower bounds for $$B_2$$ and $$ACC^0$$ circuits.
+- query complexity lower bounds
+
+I am also fascinated by the literature on the quantum PCP conjecture and the field of quantum hamiltonian complexity more generally.
+
+Recently, I have also been reading about the scope of  anonymization regulation in the [GDPR](https://www.privacy-regulation.eu/en/recital-26-GDPR.htm). I hope to contribute to policy research that bridges the  mathematical and legal definitions of privacy as part of the [Bridging Privacy](https://privacytools.seas.harvard.edu/bridging-privacy-definitions) working group.
+
+Previously, I contributed to (and help setup) the [quantum information package](https://github.com/qutip/qutip-qip) of the popular quantum simulation toolbox [QuTiP](https://github.com/qutip/qutip). You can read about my implementation of quantum circuit simulation [here](https://sarsid.wordpress.com/2020/08/24/a-gsoc-summary/).
