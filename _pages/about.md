@@ -18,11 +18,12 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 
-I am advised by [Justin Thaler](https://people.cs.georgetown.edu/jthaler/) and part of a budding theory group at Georgetown.
+I am advised by [Justin Thaler](https://people.cs.georgetown.edu/jthaler/) and [Alexander Golovnev](https://golovnev.org/) and part of a budding theory group at Georgetown.
 
-I am interested in exploring the power of various classical and quantum models of computation. Currently, I am working on projects that aim to prove:
+I am interested in exploring the power of various classical and quantum models of computation. Currently, I am working on the following projects:
 - circuit lower bounds for $$B_2$$ and $$ACC^0$$ circuits.
-- query complexity lower bounds
+- relationships between various boolean function complexity measures
+- algorithms and lower bounds for the AVOID problems which relate to finding explicit constructions for circuit lower bounds, rigid matrices, etc.
 
 I am also fascinated by the literature on the quantum PCP conjecture and the field of quantum hamiltonian complexity more generally.
 
