@@ -7,10 +7,6 @@ subtitle: PhD Student, <a href='https://cs.georgetown.edu/'>Georgetown Universit
 profile:
   align: right
   image: pfp.jpg
-  address: >
-    <p>328K, St. Mary's Hall</p>
-    <p>3700 Reservoir Rd NW </p>
-    <p>Washington, DC 20057</p>
 
 news: false  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
