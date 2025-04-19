@@ -12,7 +12,7 @@ profile:
 news: false # includes a list of news items
 latest_posts: false # includes a list of the newest posts
 selected_papers: false # includes a list of papers marked as "selected={true}"
-social: false # includes social icons at the bottom of the page
+social: true # includes social icons at the bottom of the page
 ---
 
 I am advised by [Justin Thaler](https://people.cs.georgetown.edu/jthaler/) and [Alexander Golovnev](https://golovnev.org/) and part of a budding [theory](https://cstheory-georgetown.github.io/) group at Georgetown.
