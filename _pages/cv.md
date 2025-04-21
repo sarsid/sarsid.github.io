@@ -1,8 +1,11 @@
 ---
-layout: redirected
+layout: cv
 permalink: /cv/
-title: cv
+classes: wide
+title: CV
 nav: true
-nav_order: 3
-redirect_to: /assets/pdf/website_cv.pdf
+nav_order: 1
+cv_pdf: cv_website.pdf
+toc:
+# sidebar: left <- remove this line to center the pdf
 ---
